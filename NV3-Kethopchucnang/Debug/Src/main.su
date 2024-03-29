@@ -1,0 +1,8 @@
+../Src/main.c:83:5:main	24	static
+../Src/main.c:125:8:delay	16	static
+../Src/main.c:136:15:buzzer_Init	16	static
+../Src/main.c:165:15:button_Init	16	static
+../Src/main.c:196:15:buzzerControlSetStatus	16	static
+../Src/main.c:214:13:buttonReadStatus	24	static
+../Src/main.c:231:15:LEDRED_init	16	static
+../Src/main.c:248:15:LEDREDControl_SetStatus	16	static

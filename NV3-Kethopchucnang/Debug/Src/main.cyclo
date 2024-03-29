@@ -1,0 +1,8 @@
+../Src/main.c:83:5:main	3
+../Src/main.c:125:8:delay	2
+../Src/main.c:136:15:buzzer_Init	1
+../Src/main.c:165:15:button_Init	1
+../Src/main.c:196:15:buzzerControlSetStatus	3
+../Src/main.c:214:13:buttonReadStatus	2
+../Src/main.c:231:15:LEDRED_init	1
+../Src/main.c:248:15:LEDREDControl_SetStatus	3
